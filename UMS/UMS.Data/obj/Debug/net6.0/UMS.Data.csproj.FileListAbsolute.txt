@@ -1,0 +1,12 @@
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\bin\Debug\net6.0\UMS.Data.deps.json
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\bin\Debug\net6.0\UMS.Data.dll
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\bin\Debug\net6.0\UMS.Data.pdb
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\UMS.Data.csproj.AssemblyReference.cache
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\UMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\UMS.Data.AssemblyInfoInputs.cache
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\UMS.Data.AssemblyInfo.cs
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\UMS.Data.csproj.CoreCompileInputs.cache
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\UMS.Data.dll
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\refint\UMS.Data.dll
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\UMS.Data.pdb
+E:\Workplace\learing\UMS_Backend\UMS_Api\UMS\UMS.Data\obj\Debug\net6.0\ref\UMS.Data.dll
